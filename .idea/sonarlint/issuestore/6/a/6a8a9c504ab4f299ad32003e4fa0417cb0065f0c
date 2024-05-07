@@ -1,0 +1,18 @@
+
+˜	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÂòÎşÿÿÿÿ8õò“•õ1J$df85eea2-26fb-4bce-83d0-28a9acb91c56
+†
+java:S2184,"CCast one of the operands of this subtraction operation to a "long".(ß›õ¢8÷ò“•õ1J$40e54eda-e8a3-434b-a9c2-106afa9ff783
+†
+java:S2184N"CCast one of the operands of this subtraction operation to a "long".(ß›õ¢8¸²™•õ1J$9b41e955-2a01-4d67-99a3-b8638afc6422
+r	java:S1061"+Replace this use of System.out by a logger.(éÑÿ«ùÿÿÿÿ8‰ó“•õ1J$7d81b715-1301-46f6-a8db-48a441c184d2
+m	java:S1067"+Replace this use of System.out by a logger.(¿ÕèÓ8‹ó“•õ1J$3ee2fe36-46e6-4ff2-9d35-5f50c12e474b
+m	java:S106D"+Replace this use of System.out by a logger.(ğ“˜8ó“•õ1J$69abae9a-24ee-4921-87a4-072a1e3c1b16
+m	java:S106Q"+Replace this use of System.out by a logger.(÷ŞÉ8Ì²™•õ1J$bf230c31-68bf-4e42-97bd-d422ccfed82d
+…
+java:S1612Z"=Replace this lambda with method reference 'Coordinate::getX'.(Û¥üÿÿÿÿ8‰ó“•õ1J$7c17a097-1515-4608-a630-6544df876632
+r	java:S106\"+Replace this use of System.out by a logger.(ñ¢¢ÿÿÿÿÿ8êÊ¾•õ1J$34125a61-3533-4fd5-be29-d4d61cc85250
+€
+java:S1612e"=Replace this lambda with method reference 'Coordinate::getY'.(İÓ‘’8Šó“•õ1J$a4ede975-e8bc-4268-a9dd-8745bd4bf3d2
+r	java:S106h"+Replace this use of System.out by a logger.(ÚÌÅşùÿÿÿÿ8ş‹Â•õ1J$f97c21d5-cc7d-4024-8ad5-54958b1589a5
+l	java:S106r"+Replace this use of System.out by a logger.(ı“€&8ü…Ä•õ1J$980cb47f-4d77-460f-b043-a581a14de341
+r	java:S106}"+Replace this use of System.out by a logger.(Èİøñÿÿÿÿÿ8Ê«É•õ1J$fb834d8a-0ebe-4888-8663-1b5f64ff0ee3
